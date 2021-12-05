@@ -18,10 +18,8 @@ Data from [Project Gutenberg](https://www.gutenberg.org/): [Shakespeare play](ht
 TODO
 
 ## Quickstart
-- [Data Undertanding, data cleansing, data exploration](https://github.com/brunocampos01/federated-Learning-for-text-generation
-/tree/master/notebooks)
-- [Prepare federation, preprocess data, model, fed-avg, retraining and evaluate](https://github.com/brunocampos01/federated-Learning-for-text-generation
-/tree/master/notebooks)
+- [Data Undertanding, data cleansing, data exploration](https://github.com/brunocampos01/federated-Learning-for-text-generation/tree/master/notebooks)
+- [Prepare federation, preprocess data, model, fed-avg, retraining and evaluate](https://github.com/brunocampos01/federated-Learning-for-text-generation/tree/master/notebooks)
 
 ## Requirements
 This project is tested with:
