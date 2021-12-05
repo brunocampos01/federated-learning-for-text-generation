@@ -1,4 +1,4 @@
-# Finding Donors
+# Federated Learning for Text Generation
 ![Python 3](https://img.shields.io/badge/Python-3-red.svg)
 ![License](https://img.shields.io/badge/Code%20License-MIT-red.svg)
 
