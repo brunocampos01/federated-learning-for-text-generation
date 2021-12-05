@@ -15,11 +15,11 @@ Create a model of text generation with Shakeaspeare play to execute in federated
 Data from [Project Gutenberg](https://www.gutenberg.org/): [Shakespeare play](http://www.gutenberg.org/files/100/old/1994-01-100.zip)
 
 ## Algorithms
-
 TODO
 
 ## Quickstart
-[Data Exploration, Data Cleansing, Feature Engineering, Modeling and Evaluation](https://github.com/brunocampos01/finding-donors/tree/master/notebooks)
+- [Data Undertanding, data cleansing, data exploration](https://github.com/brunocampos01/finding-donors/tree/master/notebooks)
+- [Prepare federation, preprocess data, model, fed-avg, retraining and evaluate](https://github.com/brunocampos01/finding-donors/tree/master/notebooks)
 
 ## Requirements
 This project is tested with:
