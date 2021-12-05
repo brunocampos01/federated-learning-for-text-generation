@@ -1,0 +1,26 @@
+# Cached builds
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.dll
+*.odt#
+.ipynb_checkpoints/
+.ropeproject/
+.cache/
+.coverage
+
+# Build directories
+docs/_build/
+build/
+dist/
+venv/
+src.egg-info/
+
+
+# IDEs
+.idea/
+
+# Testing and temporary files
+.tox/
