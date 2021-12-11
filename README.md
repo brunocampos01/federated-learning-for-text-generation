@@ -35,13 +35,13 @@ This project is tested with:
 ## Image Display
 
 #### WordCloud
-<img src="reports/romeo_wordcloud.png" align="center" height=auto width=45%/>
+<img src="reports/romeo-wordcloud.png" align="center" height=auto width=70%/>
 
-<img src="reports/romeo_wordcloud.png" align="center" height=auto width=45%/>
+<img src="reports/juliet-wordcloud.png" align="center" height=auto width=70%/>
 
 #### N-grams
-<img src="reports/top_unigram.png" align="center" height=auto width=45%/>
-<img src="reports/top_bigram.png" align="center" height=auto width=45%/>
+<img src="reports/top_unigram.png" align="center" height=auto width=70%/>
+<img src="reports/top_bigram.png" align="center" height=auto width=70%/>
 
 ---
 
