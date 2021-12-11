@@ -32,6 +32,17 @@ This project is tested with:
 - [Install CUDA](https://www.tensorflow.org/install/gpu#install_cuda_with_apt)
 
 
+## Image Display
+
+#### WordCloud
+<img src="reports/romeo_wordcloud.png" align="center" height=auto width=45%/>
+
+<img src="reports/romeo_wordcloud.png" align="center" height=auto width=45%/>
+
+#### N-grams
+<img src="reports/top_unigram.png" align="center" height=auto width=45%/>
+<img src="reports/top_bigram.png" align="center" height=auto width=45%/>
+
 ---
 
 
