@@ -35,6 +35,11 @@
 *.tag           text
 *.tagx          text
 *.xml           text
+
+# Shell scripts require LF
+*.sh            text eol=lf
+# Batch scripts require CRLF
+*.bat           text eol=crlf
 ###############################################################################
 # Binary Files
 
@@ -101,10 +106,11 @@
 # reclassifies files
 ###############################################################################
 # Example of a `.gitattributes` file which reclassifies `.rb` files as Java:
+*.sh    linguist-language=bash
 *.rb    linguist-language=Ruby
 *.java  linguist-language=Java
 *.pl    linguist-language=Prolog
-.Rmd    linguist-language=R
+*.Rmd   linguist-language=R
 
 *.py    linguist-language=Python
 *.ipynb linguist-language=Python
